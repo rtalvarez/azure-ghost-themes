@@ -1,4 +1,4 @@
-azure-ghost-themes
+azure ghost themes
 ==================
 
 To setup a shiny new theme for your Ghost blog, deployed via Azure Websites (not a VM):
@@ -10,7 +10,7 @@ To setup a shiny new theme for your Ghost blog, deployed via Azure Websites (not
 4. Get the credentials from below (under Deployement / FTP user)
 5. Grab the FTP Host Name
 6. Fire up FileZilla, paste the FTP Host name, and provide login info
-7. Paste all the files of your desired theme in the following remote directory: /site/wwwroot/content/themes/<newThemeHere>/
+7. Paste all the files of your desired theme in the following remote directory: /site/wwwroot/content/themes/newThemeHere/
 8. Go to your settings console at yourBlog/admin and under settings, select the new theme
 9. It may take up to 5 mins for it to update the changes
 
